@@ -1,6 +1,7 @@
 ### Hi there, I'm Dídac!👋
 ---
-- Currently studying computer engineering at [Universitat Politècnica de Catalunya](https://www.upc.edu/ca). Interested in software development.
+- Currently studying computer engineering at [Universitat Politècnica de Catalunya](https://www.upc.edu/ca). Specialized in software engineering and architecture.
+- Expanding my knowledge of web development with react and node.
 - Contact me through the links on my profile
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DidacDV)](https://github.com/DidacDV/github-readme-stats)
